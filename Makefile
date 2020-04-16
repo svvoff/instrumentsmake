@@ -28,6 +28,6 @@ swiftlint:
 	$(info )
 
 end:
-	$(info )
-	$(info do not foget to execute: source $(profile))
-	$(info )
+	$(info *****************************************************)
+	$(info **** do not foget to execute: source ~/.zprofile ****)
+	$(info *****************************************************)
